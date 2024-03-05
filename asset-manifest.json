@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactfirstwebsite/static/css/main.a10cc6d5.css",
+    "main.js": "/reactfirstwebsite/static/js/main.32d64552.js",
+    "static/media/boostbusiness.jpg": "/reactfirstwebsite/static/media/boostbusiness.1be5dfe9420613fdb81c.jpg",
+    "static/media/businessanalytics.jpg": "/reactfirstwebsite/static/media/businessanalytics.b672346cabca149a536f.jpg",
+    "static/media/digitalmarketing.jpg": "/reactfirstwebsite/static/media/digitalmarketing.993a2093aa681ed0194f.jpg",
+    "static/media/entrepreneurship.jpg": "/reactfirstwebsite/static/media/entrepreneurship.86cf4cff7b59080bd511.jpg",
+    "static/media/appdev.jpg": "/reactfirstwebsite/static/media/appdev.8c236180c07064f60437.jpg",
+    "index.html": "/reactfirstwebsite/index.html",
+    "main.a10cc6d5.css.map": "/reactfirstwebsite/static/css/main.a10cc6d5.css.map",
+    "main.32d64552.js.map": "/reactfirstwebsite/static/js/main.32d64552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10cc6d5.css",
+    "static/js/main.32d64552.js"
+  ]
+}
